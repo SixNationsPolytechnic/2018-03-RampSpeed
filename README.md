@@ -1,9 +1,11 @@
 ## 2018-03-RampSpeed
 #### Class #3 is about using 2 IR beakers to measure the speed of a object 
 
-#### Video:
+#### Video: 
+https://youtu.be/wH4jxGaxbQk
 
-#### Presenation: https://github.com/SixNationsPolytechnic/2018-03-RampSpeed/blob/master/SNP-RampAndIRBreaker-Class3-20180425.pdf
+#### Presenation: 
+https://github.com/SixNationsPolytechnic/2018-03-RampSpeed/blob/master/SNP-RampAndIRBreaker-Class3-20180425.pdf
 
 #### Code: 
 
