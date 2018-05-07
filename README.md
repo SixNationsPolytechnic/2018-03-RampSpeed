@@ -1,5 +1,5 @@
 ## 2018-03-RampSpeed
-#### Class #3 is about using 2 IR beakers to measure the speed of a object 
+#### Class #3 is about using 2 IR beakers to measure the speed of an object using a PI and Node-RED
 
 #### Video: 
 https://youtu.be/wH4jxGaxbQk
